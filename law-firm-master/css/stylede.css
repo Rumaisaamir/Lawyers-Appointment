@@ -1,0 +1,17 @@
+.box
+{
+ border: 2px solid #cbb88c;
+ height: 310px;
+ width: 110px;
+}
+.btnside
+{
+    background-color: black;
+    color: #cbb88c;
+}
+.btnside:hover
+{
+    background-color: #cbb88c;
+    color: black;
+    transition: 2s;
+}
